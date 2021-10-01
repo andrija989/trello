@@ -1,0 +1,15 @@
+{
+  "name": "cypress-vivify-ideas",
+  "version": "1.0.0",
+  "description": "Companion repo for vivify-ideas automation course",
+  "scripts": {
+    "start": "cd app && npm start",
+    "postinstall": "cd app && npm install"
+  },
+  "author": "Bojan Dimitrovski",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^0.21.1",
+    "typescript": "^4.3.5"
+  }
+}
