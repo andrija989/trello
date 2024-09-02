@@ -1,4 +1,4 @@
-# Cypress advanced course - Vivify Ideas
+# Playwright advanced course 
 
 Hello there 👋
 
