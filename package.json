@@ -1,7 +1,7 @@
 {
-  "name": "cypress-vivify-ideas",
+  "name": "playwright-trello",
   "version": "1.0.0",
-  "description": "Companion repo for vivify-ideas automation course",
+  "description": "Companion repo for automation course",
   "scripts": {
     "start": "cd app && npm start",
     "postinstall": "cd app && npm install"
